@@ -20,4 +20,4 @@
     along with Wild Planner in the file named LICENSE.TXT.  If not, see <http://www.gnu.org/licenses/>.
 
 
-Wild Planner Tutorial: IMPORTANT! This Tutorial was written for an older version of the Wild Planner toolbox. The latest toolbox contains tools and features not covered by this tutorial. We hope to update the Wild Planner tutorial and documentation as ourlimited resources allow.
+Wild Planner Tutorial: IMPORTANT! This Tutorial was written for an older version of the Wild Planner toolbox. The latest toolbox contains tools and features not covered by this tutorial. We hope to update the Wild Planner tutorial and documentation as our limited resources allow.
